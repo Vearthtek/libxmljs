@@ -14,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/MrMYHuang/libxmljs.git"
+    "url": "http://github.com/Vearthtek/libxmljs.git"
   },
   "bugs": {
-    "url": "http://github.com/MrMYHuang/libxmljs/issues"
+    "url": "http://github.com/Vearthtek/libxmljs/issues"
   },
   "main": "./index",
   "license": "MIT",
